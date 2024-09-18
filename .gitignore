@@ -1,0 +1,12 @@
+# R project files
+**/.Rproj.user/
+**/.Rhistory
+**/.RData
+**/.Ruserdata
+
+# macOS system files
+.DS_Store
+arduinoSketches/.DS_Store
+esp32Sketches/.DS_Store
+pythonScripts/.DS_Store
+rScripts/.DS_Store
