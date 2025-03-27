@@ -4,7 +4,17 @@
 
 ---
 
-![alt text](https://github.com/clawdd/BioFab24-E-Skin/blob/main/images/skin_sideview.jpg)
+### Side View
+
+![E-Skin (Side View)](https://github.com/clawdd/BioFab24-E-Skin/blob/main/images/skin_sideview.jpg)
+
+### Individual Layers
+
+![E-Skin (Individual Layers)](https://github.com/clawdd/Living-Layers/blob/main/images/skin_layers.jpg)
+
+### Three Layer Segment 
+
+![E-Skin (Three Layer Segment)](https://github.com/clawdd/Living-Layers/blob/main/images/three_layer_segment.jpg)
 
 ---
 
